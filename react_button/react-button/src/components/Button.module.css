@@ -1,0 +1,25 @@
+.button {
+    font-size: 34px;
+    color: aliceblue;
+    background-color: lightskyblue;
+    padding: 40px;
+    border-radius: 12px;
+    border: 2px solid grey;
+
+    margin: 0;
+    margin-left: 700px;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.button:hover {
+    background-color: lightblue;
+    border: 2px solid gray;
+}
+
+.text {
+    font-size: 76px;
+    text-align: center;
+}
